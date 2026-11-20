@@ -1,1 +1,1 @@
-# indows-11-stig-remediation
+# Windows-11-stig-remediation
