@@ -53,4 +53,4 @@ The script prints the saved registry value. The comments explain the expected re
 **Author:** Maxim Bondarchuk  
 **Script template credit:** Josh Madakor
 
-This project was completed as part of my cybersecurity lab training.
+This project was completed as part of my cybersecurity internship with LogN Pacific.
